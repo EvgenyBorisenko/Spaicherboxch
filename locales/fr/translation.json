@@ -1,0 +1,241 @@
+{
+  "Header": {
+    "HOME": "ACCUEIL",
+    "PRODUCTS": "PRODUITS",
+    "PRICES": "PRIX",
+    "ABOUT_US": "À PROPOS DE NOUS",
+    "SAFETY": "SÉCURITÉ",
+    "SUPPORT": "SUPPORT"
+  },
+  "Main": {
+    "MainDescriptionSpeichrBox": "SpeicherBox.ch est un espace de travail sûr et clairement structuré dans lequel vous pouvez vous concentrer sur ce qui est important. La sécurité de vos données est notre priorité absolue. C'est la qualité suisse! ",
+    "Product": "PRODUITS",
+    "Description": {
+      "text1": "Nous vous proposons un stockage cloud pour vos besoins individuels. Simple, sécurisé et rentable. Nous mettons la sécurité de vos données comme notre priorité.",
+      "text2": "La sécurité et la qualité suisse sont-elles importantes pour vous? Alors vous au bon endroit. SpeicherBox.ch vous offre une synchronisation et un stockage des fichiers rentables avec un centre de données en Suisse, qui dispose d'un centre de contact avec un support personnel de ticket et d'appel.",
+      "text3": "Avec notre aide, protégez vos données de votre ordinateur à un destinataire et gardez le contrôle total sur vos fichiers. Le chiffrement de bout en bout ne laisse pas vos appareils non codés. Vous seul avez un code pour décrypter les données sur vos appareils. Choisissez la solution la plus adaptée. N'hésitez pas à nous contacter si vous avez besoin d'une consultation personnelle - nous serons ravis de vous aider. ",
+      "text4": "SpeicherBox.ch vous garantit une politique 100% privée grâce à un cryptage de bout en bout et une sécurité des données externes entièrement situés en Suisse!"
+    },
+    "Product_items": {
+      "Item1": {
+        "Name": "BOÎTE DE RANGEMENT POUR LES UTILISATEURS PRIVÉS",
+        "Description": "Avec SpeicherBox.ch, la recherche de documents et de documents prend fin. Vous pouvez accéder à vos fichiers depuis n'importe quel smartphone, tablette ou ordinateur. Sûr et peu coûteux. ",
+        "price": "Dès CHF 59.- par an",
+        "button": "ACHETER",
+        "info": "Plus d'informations"
+      },
+      "Item2": {
+        "Name": "BOÎTE DE RANGEMENT FAMILIALE (MULTI-UTILISATEUR)",
+        "Description": "SpeicherBox vous offre la solution optimale pour la synchronisation des données cryptées et la collaboration en ligne pour les membres de votre famille. Vous pouvez accéder à vos fichiers depuis n'importe quel smartphone, tablette ou ordinateur. ",
+        "price": "Dès CHF 5.50 par utilisateur et par mois (commande minimum: 3 utilisateurs) Demandez le code de réduction famille par email ou par téléphone!",
+        "button": "ACHETER",
+        "info": "Plus d'informations"
+      },
+      "Item3": {
+        "Name": "BOÎTE DE RANGEMENT POUR VOTRE ASSOCIATION (MULTI-UTILISATEUR)",
+        "Description": "Sauvegardez et gérez les données de votre club / association en un seul endroit. Les données sont donc toujours à jour. Vous avez accès à tout moment et en tout lieu et pouvez accorder à vos membres des autorisations individuelles. Sûr et peu coûteux. ",
+        "price": "Dès CHF 5.50 par utilisateur et par mois (commande minimum: 3 utilisateurs) Demandez le code de réduction NPO par e-mail ou par téléphone!",
+        "button": "ACHETER",
+        "info": "Plus d'informations"
+      },
+      "Item4": {
+        "Name": "BOÎTE DE RANGEMENT POUR VOTRE ENTREPRISE (MULTI-UTILISATEUR)",
+        "Description": "Conservez toutes les données confidentielles de l'entreprise dans un endroit sûr. Autres avantages: vous avez accès à tout moment et pouvez accorder des autorisations individuellement aux employés, équipes, chefs de projet, etc. Un espace de travail virtuel sensible: bien protégé et éprouvé. Idéal pour les PME, les institutions et les organisations. Sûr et peu coûteux.",
+        "price": "Dès CHF 11.- par utilisateur et par mois",
+        "button": "ACHETER",
+        "info": "Plus d'informations"
+      },
+      "Item5": {
+        "Name": "REVENDEUR DE BOÎTES DE RANGEMENT",
+        "Description": "Avec SpeicherBox.ch, vous offrez à vos clients une réelle valeur ajoutée. Devenez revendeur et vendez à vos clients la véritable synchronisation des données chiffrées et la sauvegarde des données suisses de SpeicherBox.ch. Notre programme revendeur met à votre disposition votre propre boîte de rangement spécialement adaptée à votre entreprise. Vous créez et gérez des clients indépendamment et les facturez directement.",
+        "price": "Contactez-nous pour des conseils personnalisés!",
+        "info": "Plus d'informations"
+      }
+    },
+    "Product_Overview": {
+      "name": "Présentation du produit",
+      "description": "Obtenez un aperçu et choisissez l'un de nos forfaits sans soucis.Vous pouvez toujours compter sur elle: 100% de confidentialité grâce au chiffrement de bout en bout et à la sauvegarde de données externes exclusivement en Suisse! "
+    }
+  },
+  "Price": {
+    "name": "Aperçu des prix",
+    "description": {
+      "text1": "La sécurité de vos données est notre priorité absolue. Nous proposons un stockage cloud pour votre usage individuel. Simple, sûr et peu coûteux.",
+      "text2": "La sécurité et la qualité suisse signifient naturellement que vos données sont également stockées dans un centre de données en Suisse. Vous pouvez donc être sûr que seules les normes de sécurité les plus élevées s'appliquent.",
+      "text3": "Choisissez la bonne solution pour vous. Contactez-nous pour des conseils personnalisés, nous sommes heureux de vous aider."
+    },
+    "cards": {
+      "card1": {
+        "name": "Home user",
+        "price": "dès CHF 59",
+        "text1": "par an",
+        "text2": "Documents importants",
+        "text3": "enregistrer en toute sécurité",
+        "button": "ACHETER"
+      },
+      "card2": {
+        "name": "Famille",
+        "price": "dès CHF 5.50",
+        "text1": "par utilisateur",
+        "text2": "Documents & Photos",
+        "text3": "enregistrer et partager en toute sécurité",
+        "button": "ACHETER"
+      },
+      "card3": {
+        "name": "Association",
+        "price": "dès CHF 5.50",
+        "text1": "par utilisateur",
+        "text2": "Partager des données en toute sécurité",
+        "text3": "& sync",
+        "button": "ACHETER"
+      },
+      "card4": {
+        "name": "Entreprise",
+        "price": "dès CHF 11",
+        "text1": "par utilisateur",
+        "text2": "Données confidentielles de l'entreprise",
+        "text3": "garder la sécurité",
+        "button": "ACHETER"
+      }
+    }
+  },
+  "Home_cards": {
+    "tittle": "BUY STORAGE BOX HOME",
+    "cards_list": {
+      "card1": {
+        "name": "Test",
+        "price": "Gratuit",
+        "size": "Essayez-le gratuitement pendant 30 jours",
+        "button": "ACHETER"
+      },
+      "card2": {
+        "name": "Mini",
+        "price": "CHF 59.00 par an",
+        "size": "100 Go d'espace de stockage",
+        "button": "ACHETER"
+      },
+      "card3": {
+        "name": "Standart",
+        "price": "CHF 129.00 par an",
+        "size": "500 Go d'espace de stockage",
+        "button": "ACHETER"
+      },
+      "card4": {
+        "name": "Premium",
+        "price": "CHF 250.00 par an",
+        "size": "1 To d'espace de stockage",
+        "button": "ACHETER"
+      }
+    }
+  },
+  "MultiUser_cards": {
+    "tittle": "ORDER STORAGE BOX MULTIUSER",
+    "cards_list": {
+      "card1": {
+        "name": "Multi-utilisateur",
+        "type": "Test",
+        "price": "Gratuit",
+        "period": "test de 30 jours",
+        "size": "500 Go d'espace de stockage",
+        "user": "5 utilisateurs",
+        "button": "ACHETER"
+      },
+      "card2": {
+        "name": "Multi-utilisateur",
+        "type": "Standart",
+        "price": "CHF 11.-",
+        "period": "par utilisateur / mois",
+        "size": "500 Go d'espace de stockage",
+        "user": "par utilisateur",
+        "button": "ACHETER"
+      },
+      "card3": {
+        "name": "Multi-utilisateur",
+        "type": "Premium",
+        "price": "CHF 14.-",
+        "period": "par utilisateur / mois",
+        "size": "1 To d'espace de stockage",
+        "user": "par utilisateur",
+        "button": "ACHETER"
+      },
+      "card4": {
+        "name": "Familles",
+        "type": " Club / NPO",
+        "price": "sur demande",
+        "period": "pour les organisations à but non lucratif",
+        "size": "500 Go d'espace de stockage",
+        "user": "par utilisateur",
+        "button": "ACHETER"
+      }
+    }
+  },
+  "About_us": {
+    "name": "SPEICHERBOX.CH: LE STOCKAGE SÉCURISÉ DU NUAGE DE SUISSE",
+    "text1": "Nous ne pouvions plus accepter en toute conscience que nos données seraient toujours stockées avec des services de stockage en ligne étrangers et anonymes. Lorsque nous recherchions une alternative fiable, nous avons rapidement réalisé que cela n'existait pas encore sur le marché, et nous avons donc commencé notre propre projet: SpeicherBox.ch",
+    "text2": "Nous serions ravis de partager avec vous notre offre complète et sans soucis pour le stockage de données externes. Nous ne sommes pas seulement une entreprise basée à Zofingen, en Suisse; tous nos processus commerciaux sont cartographiés en Suisse, donc le centre de données est bien sûr également situé à Suisse. Vous pouvez être sûr que seules les normes de sécurité les plus strictes s’appliquent.",
+    "text3": "La sécurité des données en Suisse, pour la Suisse et tous ceux qui apprécient la qualité suisse.",
+    "text4": "Chez SpeicherBox.ch, la fiabilité, la disponibilité et la sécurité des données sont primordiales.",
+    "text5": "SpeicherBox.ch vous garantit une confidentialité à 100% grâce à un chiffrement de bout en bout et une sauvegarde des données externes exclusivement en Suisse!"
+  },
+  "Security": {
+    "name": "CHIFFREMENT DE BOUT EN BOUT AVEC AES256 - LE SEUL MOYEN SÉCURISÉ POUR VOS DONNÉES",
+    "text1": "Contrairement à la tendance actuelle du marché du stockage en ligne, tous nos serveurs sont situés dans des centres de données suisses à haute sécurité. Cela signifie que vos données ne sont jamais stockées dans des centres de données étrangers et sont donc toujours soumises à la protection des données et à la juridiction suisse.",
+    "text2": "Nous serions ravis de partager avec vous notre offre complète et sans soucis pour le stockage de données externes. Nous ne sommes pas seulement une entreprise basée à Zofingen, en Suisse; tous nos processus commerciaux sont cartographiés en Suisse, donc le centre de données est bien sûr également situé à Suisse. Vous pouvez être sûr que seules les normes de sécurité les plus élevées s’appliquent.",
+    "text3": "Le chiffrement et le déchiffrement ont lieu sur le client. Cela signifie qu'aucune personne non autorisée ne peut accéder à vos données stockées.",
+    "text4": "Nous comptons sur le cryptage AES256. Qu'est-ce que c'est?, AES est la norme de cryptage, et 256 signifie que la longueur de la clé est de 256 bits. Vous pouvez l'imaginer comme ceci: avec la longueur de clé de 256 bits, le nombre de combinaisons possibles de clés le nombre d'étoiles dans l'univers (on estime qu'il y a environ un quadrillion, donc 10²⁴, étoiles). Cela signifie qu'un milliard d'ordinateurs mettraient plusieurs milliards d'années à déchiffrer ce code.",
+    "text5": "Les centres de données sont sécurisés sur site 24h / 24 et 7j / 7 et sont sécurisés par la biométrie.",
+    "text6": "Nous n'utilisons pas de technologies open source. Notre logiciel, que nous avons développé nous-mêmes, est notre propriété à 100% et est utilisé et développé exclusivement par SpeicherBox.ch."
+  },
+  "Data_protection": {
+    "name": "CONFIDENTIALITÉ",
+    "text1": "Les autorités suisses, les tribunaux, les municipalités. Les bureaux, etc. sont conformes à la loi suisse sur la protection des données (loi fédérale sur la protection des données (DSG) du 19 juin 1992; https://www.admin.ch/opc/de/classifed -compilation / 19920153 / index.html) à égalité, tout comme les entreprises suisses. En outre, les autorités suisses doivent également se conformer aux lois et réglementations cantonales sur la protection des données et au secret judiciaire pénal. Cela signifie que toutes les organisations doivent traiter leurs données avec un soin particulier.",
+    "text2": "Une entreprise, une association ou une association, même une école, dispose de nombreuses données personnelles telles que les adresses, la date de naissance, les numéros de téléphone, les photographies des clients, des employés ou des membres. La protection des données en Suisse stipule clairement comment ces données peuvent et doivent être traitées L'organisation à laquelle les données ont été confiées est responsable du traitement conforme à la protection des données.",
+    "text3": "Cela doit garantir que le stockage en ligne ou le fournisseur de services cloud, en tant que tiers, garantit la sécurité des données au sens de l'article 7 DSG et de l'article 8ff. ou 20ff VDSG. Cela signifie que les données personnelles doivent Protégé contre le traitement non autorisé au moyen de mesures techniques et organisationnelles appropriées. La confidentialité, la disponibilité et l'intégrité des données doivent être garanties."
+  },
+  "Footer": {
+    "text_info": "Speicherbox.ch est un espace de travail virtuel pour stocker, éditer et partager des documents confidentiels. Sécurisé comme un coffre de banque suisse, car vos données restent en Suisse.",
+    "links_name": "Liens",
+    "links_list": {
+      "link1": "Accès aux données",
+      "link2": "Console d'administration",
+      "link3": "Centre client",
+      "link4": "Conditions générales"
+    },
+    "contacts": "Contact"
+  },
+  "Home_details": {
+    "tittle": "SpeicherBox Home",
+    "text1": "Avec SpeicherBox.ch, la recherche de documents et de documents est terminée. Vous pouvez accéder à vos fichiers depuis n'importe quel smartphone, tablette ou ordinateur. Disponible 24 heures sur 24 pour l'édition, l'affichage et le partage.",
+    "text2": "Avec SpeicherBox.ch, la recherche de documents et de documents est terminée. Vous pouvez accéder à vos fichiers depuis n'importe quel smartphone, tablette ou ordinateur. Disponible 24 heures sur 24 pour l'édition, l'affichage et le partage.",
+    "text3": "Stockez vos documents privés en toute sécurité sur Speicherbox.ch. Photos, documents fiscaux, polices d'assurance, cartes d'identité, recettes de cuisine, documents de toutes sortes - tout ce qui est important pour vous. Disponible 24h / 24 pour l'édition, la visualisation et le partage. ",
+    "price": "Dès CHF 59.- par an!",
+    "button": "ACHETER"
+  },
+  "Business_details": {
+    "tittle": "BOÎTE DE RANGEMENT POUR VOTRE ENTREPRISE",
+    "text": "Synchronisation des données cryptées et collaboration en ligne pour les petites et moyennes entreprises. Vous recevrez un serveur virtuel distinct de nous avec vos propres disques durs cryptés et votre propre base de données. Synchronisez toutes vos données à partir d'un ou plusieurs ordinateurs ou serveurs. Partagez des documents en toute sécurité Vos employés via des partages privés. Pour les partenaires externes, vous pouvez rendre les documents disponibles via des liens publics avec une protection par mot de passe et une date d'expiration facultatives. De plus, tous leurs utilisateurs ont la possibilité de synchroniser leurs contacts et rendez-vous. De cette façon, vous avez toujours accès aux derniers documents, contacts et les rendez-vous. En tant qu'administrateur, vous avez la possibilité de gérer vos utilisateurs, de créer des groupes et d'ajuster les autorisations. ",
+    "price": "Dès CHF 11.- par utilisateur et par mois",
+    "button": "ACHETER"
+  },
+  "Family_details": {
+    "tittle": "Boîte de rangement pour les familles",
+    "text": "Synchronisation des données cryptées et collaboration en ligne pour les membres de la famille. Vous obtenez un serveur virtuel séparé avec vos propres disques durs et base de données cryptés. Synchronisez toutes vos données à partir d'un ou plusieurs ordinateurs, tablettes, téléphones ou serveurs. Partager Documents en toute sécurité avec les membres de leur famille via des partages privés. Vous avez donc toujours accès aux derniers documents, photos, contrats stockés, etc. Vous avez la possibilité de gérer vos utilisateurs, de créer des groupes et d'ajuster les autorisations. ",
+    "price": "A partir de CHF 5.50 par utilisateur et par mois (commande minimum: 3 utilisateurs)",
+    "button": "ACHETER"
+  },
+  "Verein_details": {
+    "tittle": "Boîte de rangement pour votre club / association",
+    "text": "Synchronisation des données cryptées et collaboration en ligne pour votre activité de club ou d'association. Vous obtenez un serveur virtuel séparé avec vos propres disques durs cryptés et votre propre base de données. Synchronisez toutes vos données à partir d'un ou plusieurs ordinateurs ou serveurs. Partagez des documents sécurisé avec les collègues du club et de l'association via des versions privées. Pour les partenaires externes, vous pouvez fournir des documents via des liens publics avec une protection par mot de passe et une date d'expiration facultatives. De plus, tous leurs utilisateurs ont la possibilité de synchroniser leurs contacts et rendez-vous. De cette façon, vous avez toujours accès à derniers documents, contacts et rendez-vous. En tant qu'administrateur, vous avez la possibilité de gérer vos utilisateurs, de créer des groupes et d'ajuster les autorisations. ",
+    "price1": "A partir de CHF 5.50 par utilisateur et par mois (commande minimum: 3 utilisateurs)",
+    "price2": "Demandez le code de réduction NPO par e-mail ou par téléphone!",
+    "button": "ACHETER"
+  },
+  "Reseller_details": {
+    "tittle": "STORAGE BOX REVENDEUR",
+    "text1": "SpeicherBox vous propose en tant que revendeur la location de serveur, y compris les logiciels en tant que produit commercialisable.",
+    "text2": "Le logiciel peut être étendu de manière modulaire. Cela vous donne la possibilité, si nécessaire et en coordination avec nous, de réaliser les souhaits de vos clients. Nous serons heureux de vous aider.",
+    "text3": "En tant que revendeur, vous êtes responsable de la configuration et du service client. En tant qu'administrateur, vous êtes également le contact direct de vos clients.",
+    "text4": "Nous, SpeicherBox.ch GmbH, sommes responsables du matériel, des logiciels et de la sécurité des données. Nous vous garantissons la sécurité des données depuis la Suisse, pour la Suisse et pour tous ceux qui apprécient la qualité suisse. Sûr et peu coûteux.",
+    "price": "Contactez-nous pour des conseils personnalisés!"
+  }
+}
