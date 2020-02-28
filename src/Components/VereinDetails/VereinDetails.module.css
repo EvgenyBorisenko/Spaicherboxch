@@ -1,0 +1,116 @@
+.Wrapper {
+  padding: 50px 0 100px 0;
+  width: 100%;
+}
+.Container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.Container img {
+  width: 100%;
+  height: auto;
+}
+.TittleBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  opacity: 0.95;
+  z-index: 1;
+  background-color: rgba(31, 136, 210, 0.9);
+  height: 100px;
+}
+.BgImg {
+  background-size: cover;
+  z-index: 2;
+  background-repeat: no-repeat;
+  background-image: url('../../img/bg_other.png');
+  background-position: center center;
+  margin-bottom: 50px;
+}
+.Tittle {
+  color: #fff;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  font-size: 30px;
+  text-transform: uppercase;
+  position: relative;
+  font-weight: 700;
+}
+
+.Tittle:after {
+  display: block;
+  position: absolute;
+  z-index: 2;
+  content: '';
+  height: 2px;
+  background: -webkit-linear-gradient(top, #1f88d2, #1f88d2);
+  width: 100%;
+  top: -42px;
+}
+
+.Tittle:before {
+  z-index: 1;
+  display: block;
+  position: absolute;
+  top: 80px;
+  content: '';
+  height: 2px;
+  background: -webkit-linear-gradient(top, #1f88d2, #1f88d2);
+  width: 100%;
+}
+.Description {
+  font-size: 16px;
+  font-weight: 400;
+  color: #696969;
+  line-height: 25px;
+  padding: 0px 10px 0px 10px;
+}
+.Price {
+  font-size: 18px;
+  font-weight: 700;
+  color: #696969;
+  padding: 0px 10px 0px 10px;
+}
+.Container button {
+  display: flex;
+  justify-content: center;
+  margin-left: 10px;
+  width: 200px;
+  padding: 10px;
+  border: none;
+  color: #ffff;
+  font-weight: 600;
+  background: #be3531;
+  border: solid 1.5px #be3531;
+  transition: 0.8s;
+  margin-bottom: 5px;
+}
+.Container button:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+@media screen and (max-width: 1023px) {
+  .Container {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .Wrapper {
+    padding: 0 0 100px 0;
+  }
+  .TittleBox {
+    height: 125px;
+  }
+  .Tittle {
+    text-align: center;
+  }
+  .Tittle:after {
+    display: none;
+  }
+  .Tittle:before {
+    display: none;
+  }
+}

@@ -1,0 +1,88 @@
+.Footer {
+  padding: 25px 0 25px 0;
+  width: 100%;
+  height: auto;
+  background-color: #303133;
+}
+.Wrapper {
+  max-width: 1140px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  color: #ffff;
+  margin-bottom: 30px;
+}
+.Logo img {
+  padding-top: 40px;
+  width: 162px;
+  height: 162px;
+}
+.Logo img:hover {
+  cursor: pointer;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+p {
+  font-size: 14px;
+}
+.TextInfo {
+  width: 200px;
+}
+
+.Links {
+  display: flex;
+  width: 250px;
+  flex-flow: column;
+  line-height: 30px;
+  font-size: 14px;
+}
+.Links a {
+  text-decoration: none;
+  color: #ffff;
+}
+.FooterRights {
+  width: 300px;
+  margin: auto;
+  font-size: 12px;
+  text-align: center;
+  color: #66686a;
+  font-weight: 300;
+}
+
+@media screen and (max-width: 1023px) {
+  .Wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  h2 {
+    text-align: center;
+  }
+  .TextInfo {
+    width: 350px;
+    margin: auto;
+    text-align: center;
+  }
+  .Logo {
+    margin: auto;
+  }
+  .Links {
+    margin: auto;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .Kontakt {
+    margin: auto;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .TextInfo {
+    width: 200px;
+  }
+}

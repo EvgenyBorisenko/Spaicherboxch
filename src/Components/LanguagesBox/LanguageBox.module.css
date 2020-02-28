@@ -1,0 +1,17 @@
+.LanguageWrapper {
+  margin: 0 auto;
+}
+.LanguageWrapper button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.LanguageWrapper button:hover {
+  cursor: pointer;
+}
+.LanguageWrapper button:active {
+  transform: scale(1.2);
+}
+.LanguageWrapper img {
+  width: 25px;
+}

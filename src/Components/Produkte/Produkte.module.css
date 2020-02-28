@@ -1,0 +1,54 @@
+.Wrapper {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding-top: 150px;
+}
+.Tittle {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+.Tittle:after {
+  display: block;
+  z-index: 2;
+  content: '';
+  height: 2px;
+  background-color: #fdb822;
+  width: 10%;
+  margin-top: 46px;
+}
+
+.Tittle:before {
+  z-index: 1;
+  display: block;
+  content: '';
+  height: 2px;
+  background-color: #dddddd;
+  width: 100%;
+  margin-bottom: -80px;
+}
+.ProductText {
+  margin-bottom: 70px;
+}
+.ProductText p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #696969;
+}
+@media screen and (max-width: 1023px) {
+  .Wrapper {
+    width: 100%;
+    padding-bottom: 0;
+  }
+  .ProductText {
+    padding: 0 20px 0 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+}

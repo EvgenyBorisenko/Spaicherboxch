@@ -1,0 +1,132 @@
+.Window {
+  position: absolute;
+  /* animation: zoom 0.75s; */
+  padding: 50px 25px 50px 25px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  z-index: 500;
+  border-radius: 3px;
+}
+
+.Message {
+  font-family: 'Gilroy';
+  font-size: 1.6rem;
+  line-height: 2rem;
+  text-align: center;
+  color: #000;
+}
+
+.Backing {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  z-index: 800;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.Form {
+  display: flex;
+  width: 400px;
+  flex-direction: column;
+  padding: 10px;
+}
+.Form h3 {
+  margin-bottom: 35px;
+}
+
+.CloseBtn {
+  position: absolute;
+  top: 22px;
+  right: 22px;
+  color: #be3531;
+  transform: translate(50%, -50%);
+  padding: 0.5rem;
+  font-size: 24px;
+  border: none;
+  background: transparent;
+}
+.CloseBtn:hover {
+  cursor: pointer;
+}
+
+.CloseBtn:focus {
+  outline: none;
+}
+.SubmitBtn {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px;
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  background: -webkit-linear-gradient(top, #009e2c, #009e2c);
+  border: solid 1.5px -webkit-linear-gradient(top, #009e2c, #009e2c);
+  transition: 0.8s;
+  margin: auto;
+  margin-bottom: 15px;
+  border-radius: 3px;
+}
+
+.SubmitBtn:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+.EmailInput {
+  padding: 15px 10px 15px 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.EmailInput ::placeholder {
+  padding: 10px;
+  font-size: 12px;
+}
+.Label label {
+  font-size: 12px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+.Payments {
+  display: flex;
+  flex-flow: row wrap;
+  margin: auto;
+  margin-bottom: 25px;
+  align-items: baseline;
+}
+.ItemsPay {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+.ItemsPay img {
+  width: 55px;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.ItemsPay input {
+  width: 15px;
+  height: 15px;
+  margin: auto;
+}
+@media screen and (max-width: 600px) {
+  .Window {
+    padding: 2rem;
+  }
+  .Form {
+    width: 300px;
+  }
+  .ItemsPay {
+    padding: 10px;
+  }
+  .Payments {
+    width: 230px;
+  }
+}

@@ -1,0 +1,44 @@
+.Wrapper {
+  padding-top: 100px;
+}
+.Tittle {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+.Tittle:after {
+  display: block;
+  position: absolute;
+  z-index: 2;
+  content: '';
+  height: 2px;
+  background-color: #fdb822;
+  width: 10%;
+  margin-top: 46px;
+}
+
+.Tittle:before {
+  z-index: 1;
+  display: block;
+  position: absolute;
+  top: 78px;
+  content: '';
+  height: 2px;
+  background-color: #dddddd;
+  width: 100%;
+}
+.DatenschutzList {
+  padding-top: 50px;
+}
+.DatenschutzItem {
+  margin-bottom: 30px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #696969;
+}

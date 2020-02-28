@@ -1,0 +1,241 @@
+{
+  "Header": {
+    "HOME": "HOME",
+    "PRODUCTS": "PRODUCTS",
+    "PRICES": "PRICE",
+    "ABOUT_US": "ABOUT US",
+    "SAFETY": "SECURITY ",
+    "SUPPORT": "SUPPORT"
+  },
+  "Main": {
+    "MainDescriptionSpeichrBox": "SpeicherBox is a safe and clear structured workspace, with the help of which you can concentrate only on something that matters.We put your security as our priority. And this is what we call Swiss Quality!",
+    "Product": "PRODUCT",
+    "Description": {
+      "text1": "We offer you a cloud storage for your individual needs. Simple, secure and cost-effective. We put the security of your data as our priority. ",
+      "text2": "Do security and Swiss quality matter to you? Then you at the right place. SpeicherBox.ch offers you cost-effective files synchronization and storage with a data center in Switzerland, that has a Contact Center with personal Ticket- and Call support. ",
+      "text3": "With our help, protect your data all the way from your computer to a recipient and keep full control over your files. End-to-end encryption doesn’t let your devices stay uncoded. Only you have a code to decrypt the data on your devices. Choose the most suitable solution. Feel free to contact us if you need a personal consultation – we will gladly help you. ",
+      "text4": "SpeicherBox.ch guarantees you 100% private policy through end-to-end encryption and external data security located entirely in Switzerland! "
+    },
+    "Product_items": {
+      "Item1": {
+        "Name": "STORAGE BOX FOR PRIVATE USERS",
+        "Description": "With SpeicherBox.ch, the search for documents and documents comes to an end. You can access your files from any smartphone, tablet or computer. Safe & inexpensive.",
+        "price": "From CHF 59.- per year",
+        "button": "BUY",
+        "info": "More information"
+      },
+      "Item2": {
+        "Name": "FAMILY STORAGE BOX (MULTIUSER)",
+        "Description": "SpeicherBox offers you the optimal solution for encrypted data synchronization and online collaboration for your family members. You can access your files from any smartphone, tablet or computer. ",
+        "price": "From CHF 5.50 per user and month (minimum order: 3 users) Request the family discount code by email or phone!",
+        "button": "BUY",
+        "info": "More information"
+      },
+      "Item3": {
+        "Name": "STORAGE BOX FOR YOUR ASSOCIATION (MULTIUSER)",
+        "Description": "Back up and manage your club / association data in one place. So the data is always up to date. You have access from anywhere at any time and can grant your members individual authorizations. Safe & inexpensive. ",
+        "price": "From CHF 5.50 per user and month (minimum order: 3 users) Request the NPO discount code by email or phone!",
+        "button": "BUY",
+        "info": "More information"
+      },
+      "Item4": {
+        "Name": "STORAGE BOX FOR YOUR COMPANY (MULTIUSER)",
+        "Description": "Keep all confidential company data in a safe place. Further advantages: You have access at all times and can grant authorizations individually to employees, teams, project managers, etc. A sensible, virtual work space: well protected and tried and tested. Ideal for SMEs, institutions and organizations. Safe & inexpensive.",
+        "price": "From CHF 11.- per user per month",
+        "button": "BUY",
+        "info": "More information"
+      },
+      "Item5": {
+        "Name": "STORAGE BOX RESELLER",
+        "Description": "With SpeicherBox.ch you offer your customers real added value. Become a reseller and sell your customers the real Swiss encrypted data synchronization and data backup from SpeicherBox.ch. Our reseller program provides you with your own storage box specially adapted to your company. You create and manage customers independently and bill them directly.",
+        "price": "Contact us for individual advice!",
+        "info": "More information"
+      }
+    },
+    "Product_Overview": {
+      "name": "Product Overview",
+      "description": "Get an overview and choose one of our all-round carefree packages. You can always rely on it: 100% privacy through end-to-end encryption and external data backup exclusively in Switzerland! "
+    }
+  },
+  "Price": {
+    "name": "Price Overview",
+    "description": {
+      "text1": "For us, the security of your data is priority. We offer you cloud storage for your individual needs. Simple, secure and cost-effective. ",
+      "text2": "Security and Swiss Quality also mean that your data is saved in the Contact Center located in Switzerland. So, be sure that only the highest standards are maintained. ",
+      "text3": "Choose the most suitable solution. Feel free to contact us if you need a personal consultation – we will gladly help you. "
+    },
+    "cards": {
+      "card1": {
+        "name": "Home user",
+        "price": "from CHF 59",
+        "text1": "per year",
+        "text2": "Important documents",
+        "text3": "save securely",
+        "button": "BUY"
+      },
+      "card2": {
+        "name": "Family",
+        "price": "from CHF 5.50",
+        "text1": "per user",
+        "text2": "Documents & Photos",
+        "text3": "save & share securely",
+        "button": "BUY"
+      },
+      "card3": {
+        "name": "Association",
+        "price": "from CHF 5.50",
+        "text1": "per user",
+        "text2": "Share data securely",
+        "text3": "& sync",
+        "button": "BUY"
+      },
+      "card4": {
+        "name": "Company",
+        "price": "from CHF 11",
+        "text1": "per user",
+        "text2": "Confidential company data",
+        "text3": "keep it safe",
+        "button": "BUY"
+      }
+    }
+  },
+  "Home_cards": {
+    "tittle": "BUY STORAGE BOX HOME",
+    "cards_list": {
+      "card1": {
+        "name": "Test",
+        "price": "Free",
+        "size": "Try it free for 30 days",
+        "button": "BUY"
+      },
+      "card2": {
+        "name": "Mini",
+        "price": "CHF 59.00 per year",
+        "size": "100GB storage space",
+        "button": "BUY"
+      },
+      "card3": {
+        "name": "Standart",
+        "price": "CHF 129.00 per year",
+        "size": "500GB storage space",
+        "button": "BUY"
+      },
+      "card4": {
+        "name": "Premium",
+        "price": "CHF 250.00 per year",
+        "size": "1TB storage space",
+        "button": "BUY"
+      }
+    }
+  },
+  "MultiUser_cards": {
+    "tittle": "ORDER STORAGE BOX MULTIUSER",
+    "cards_list": {
+      "card1": {
+        "name": "Multiuser",
+        "type": "Test",
+        "price": "Free",
+        "period": "test for 30 days",
+        "size": "500GB storage space",
+        "user": "5 users",
+        "button": "BUY"
+      },
+      "card2": {
+        "name": "Multiuser",
+        "type": "Standart",
+        "price": "CHF 11.-",
+        "period": "per user / month",
+        "size": "500GB storage space",
+        "user": "per user",
+        "button": "BUY"
+      },
+      "card3": {
+        "name": "Multiuser",
+        "type": "Premium",
+        "price": "CHF 14.-",
+        "period": "per user / month",
+        "size": "1TB storage space",
+        "user": "per user",
+        "button": "BUY"
+      },
+      "card4": {
+        "name": "Families",
+        "type": " Club / NPO",
+        "price": "on request",
+        "period": "for non-profit organizations",
+        "size": "500GB storage space",
+        "user": "per user",
+        "button": "BUY"
+      }
+    }
+  },
+  "About_us": {
+    "name": "SPEICHERBOX.CH: THE SECURE CLOUD STORAGE FROM SWITZERLAND",
+    "text1": "We could no longer accept with a clear conscience that our data would still be stored with foreign, anonymous online storage services. When we were looking for a trustworthy alternative, we quickly realized that this is not yet available on the market, and so we started our own project: SpeicherBox.ch ",
+    "text2": "We would be happy to share our all-round carefree package for external data storage with you. We are not just a company based in Zofingen, Switzerland; our entire business processes are mapped in Switzerland, so the data center is of course also located in Switzerland. You can be sure that only the highest security standards apply.",
+    "text3": "Data security from Switzerland, for Switzerland and everyone who appreciates Swiss quality.",
+    "text4": "At SpeicherBox.ch, the trustworthiness, availability and data security of your data are paramount.",
+    "text5": "SpeicherBox.ch guarantees you 100% privacy through end-to-end encryption and external data backup exclusively in Switzerland!"
+  },
+  "Security": {
+    "name": "END-TO-END ENCRYPTION WITH AES256 - THE ONLY SECURE WAY FOR YOUR DATA",
+    "text1": "Contrary to the current trend in the online storage market, all of our servers are located in Swiss high-security data centers. This means that your data is never stored in foreign data centers and is therefore always subject to Swiss data protection and jurisdiction.",
+    "text2": "We would be happy to share our all-round carefree package for external data storage with you. We are not just a company based in Zofingen, Switzerland; our entire business processes are mapped in Switzerland, so the data center is naturally also located in Switzerland. You can be sure that only the highest security standards apply.",
+    "text3": "The encryption and decryption take place on the client. This means that no unauthorized person can access your stored data.",
+    "text4": "We rely on AES256 encryption. What is it ?, AES is the encryption standard, and 256 means that the key length is 256 bits. You can imagine it like this: with the key length of 256 bits, the number of possible combinations of keys the number of stars in the universe (there are estimated to be about a quadrillion, so 10²⁴, stars). This means that a billion computers would take several billion years to crack this code.",
+    "text5": "The data centers have 24/7 security on site and are secured by biometrics.",
+    "text6": "We do not use open source technologies. Our software, which we have developed ourselves, is 100% our property and is used and developed exclusively by SpeicherBox.ch."
+  },
+  "Data_protection": {
+    "name": "PRIVACY",
+    "text1": "Swiss authorities, courts, municipalities. Offices, etc. are to the Swiss Data Protection Act (Federal Act on Data Protection (DSG) of June 19, 1992; https://www.admin.ch/opc/de/classifed -compilation / 19920153 / index.html) tied, just like Swiss companies. In addition, the Swiss authorities also have to comply with cantonal data protection laws and regulations and criminal official secrecy. This means that all organizations must handle their data with particular care.",
+    "text2": "A company, association or association, even a school, has numerous personal data such as addresses, date of birth, telephone numbers, photographs of customers, employees or members. Swiss data protection clearly stipulates how this data can and must be handled The organization to which the data has been entrusted is responsible for the data protection-compliant handling.",
+    "text3": "This must ensure that the online storage or cloud service provider, as a third party, guarantees data security within the meaning of Art. 7 DSG and Art. 8ff. or 20ff VDSG. This means that the personal data must protected against unauthorized processing by means of appropriate technical and organizational measures. The confidentiality, availability and integrity of the data must be ensured. "
+  },
+  "Footer": {
+    "text_info": "Speicherbox.ch is a virtual workspace for storing, editing and sharing confidential documents. Safe as a Swiss bank vault, because your data stays in Switzerland.",
+    "links_name": "Links",
+    "links_list": {
+      "link1": "Data access",
+      "link2": "Admin console",
+      "link3": "Customer center",
+      "link4": "General Terms and Conditions"
+    },
+    "contacts": "Contact"
+  },
+  "Home_details": {
+    "tittle": "SpeicherBox Home",
+    "text1": "With SpeicherBox.ch, the search for documents and documents has come to an end. You can access your files from any smartphone, tablet or computer. Available around the clock for editing, showing and sharing.",
+    "text2": "With SpeicherBox.ch, the search for documents and documents has come to an end. You can access your files from any smartphone, tablet or computer. Available around the clock for editing, showing and sharing.",
+    "text3": "Store your private documents securely on Speicherbox.ch. Photos, tax documents, insurance policies, ID cards, cooking recipes, documents of all kinds - everything that is important to you. Available around the clock for editing, showing and sharing.",
+    "price": "From CHF 59.- per year!",
+    "button": "BUY"
+  },
+  "Business_details": {
+    "tittle": "STORAGE BOX FOR YOUR COMPANY",
+    "text": "Encrypted data synchronization and online collaboration for small and medium-sized businesses. You will receive a separate virtual server from us with your own encrypted hard drives and your own database. Synchronize all your data from one or more computers or servers. Share documents securely Your employees via private shares. For external partners, you can make documents available via public links with optional password protection and expiry date. In addition, all their users have the option of synchronizing their contacts and appointments. This way you always have access to the latest documents, contacts and appointments. As an administrator, you have the ability to manage your users, create groups, and adjust permissions.",
+    "price": "From CHF 11.- per user per month",
+    "button": "BUY"
+  },
+  "Family_details": {
+    "tittle": "Storage box for families",
+    "text": "Encrypted data synchronization and online collaboration for family members. You get a separate virtual server from us with your own encrypted hard drives and your own database. Synchronize all your data from one or more computers, tablets, phones or servers. Share Documents securely with their family members via private shares. So you always have access to the latest documents, photos, stored contracts, etc. You have the option to manage your users, create groups and adjust permissions.",
+    "price": "From CHF 5.50 per user and month (minimum order: 3 users)",
+    "button": "BUY"
+  },
+  "Verein_details": {
+    "tittle": "Storage box for your club / association",
+    "text": "Encrypted data synchronization and online collaboration for your club or association activity. You get a separate virtual server with your own encrypted hard drives and your own database. Synchronize all your data from one or more computers or servers. Share documents secure with club & association colleagues via private releases. For external partners you can make documents available via public links with optional password protection and expiry date. In addition, all their users have the option of synchronizing their contacts and appointments. So you always have access to latest documents, contacts and appointments. As administrator you have the possibility to manage your users, create groups and adjust permissions.",
+    "price1": "From CHF 5.50 per user and month (minimum order: 3 users)",
+    "price2": "Request the NPO discount code by email or phone!",
+    "button": "BUY"
+  },
+  "Reseller_details": {
+    "tittle": "STORAGE BOX RESELLER",
+    "text1": "SpeicherBox offers you as a reseller the server rental including software as a marketable product.",
+    "text2": "The software can be expanded in a modular manner. This gives you the opportunity, if necessary and in coordination with us, to realize further wishes of your customers. We will be happy to assist you.",
+    "text3": "As a reseller, you are responsible for customer setup and customer care. As an administrator, you are also the direct contact for your customers.",
+    "text4": "We, SpeicherBox.ch GmbH, are responsible for the hardware, software and data security. We guarantee you data security from Switzerland, for Switzerland and for everyone who appreciates Swiss quality. Safe & inexpensive.",
+    "price": "Contact us for individual advice!"
+  }
+}

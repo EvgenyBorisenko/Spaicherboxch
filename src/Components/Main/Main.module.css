@@ -1,0 +1,61 @@
+.Main {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 40px 0 100px 0;
+}
+.MainDescription {
+  color: #1f88d2;
+  padding-bottom: 26px;
+  margin: 65px 0 25px 0;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+.ScrollBtn {
+  display: inline-block;
+  background-color: #1f88d2;
+  opacity: 0.8;
+  border: none;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color 0.3s, opacity 0.5s, visibility 0.5s;
+  z-index: 1000;
+  outline: none;
+}
+
+.ScrollBtn span {
+  color: #ffff;
+  font-size: 24px;
+  transform: rotate(90deg);
+}
+
+.ScrollBtn:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+.ScrollBtn:active {
+  background-color: #555;
+  outline: none;
+}
+
+@media screen and (max-width: 1023px) {
+  .Main {
+    width: 100%;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .Main {
+    width: 100%;
+    padding: 0;
+  }
+  .MainDescription {
+    font-size: 16px;
+  }
+}

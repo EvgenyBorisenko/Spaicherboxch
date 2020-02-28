@@ -1,0 +1,61 @@
+.Header {
+  width: 100%;
+  height: auto;
+  background-color: #303133;
+  position: sticky;
+  box-shadow: 0 5px 10px 0px black;
+}
+.Wrapper {
+  max-width: 1140px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Logo img {
+  display: flex;
+  width: 80px;
+}
+.Logo img:hover {
+  cursor: pointer;
+}
+.Navigation {
+  width: 815px;
+  display: flex;
+  justify-content: flex-end;
+}
+.Link {
+  text-decoration: none;
+  position: relative;
+  color: #ffff;
+  padding: 0 1.5rem;
+  font-size: 14px;
+  font-weight: 700;
+  transition: 0.6s;
+  text-align: center;
+}
+
+.Link:hover {
+  transform: scale(1.2);
+  color: #fdb822;
+}
+.Link:hover a::after {
+  display: block;
+  position: absolute;
+  content: '';
+  top: 27px;
+  left: 10px;
+  height: 1.5px;
+  background-color: #fdb822;
+  width: 100%;
+  transition: transform 0.2s;
+}
+@media screen and (max-width: 1023px) {
+  .Header {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 767px) {
+}

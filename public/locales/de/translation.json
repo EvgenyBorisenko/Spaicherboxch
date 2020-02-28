@@ -1,0 +1,241 @@
+{
+  "Header": {
+    "HOME": "HOME",
+    "PRODUCTS": "PRODUKTE",
+    "PRICES": "PREISE",
+    "ABOUT_US": "ÜBER UNS",
+    "SAFETY": "SICHERHEIT",
+    "SUPPORT": "SUPPORT"
+  },
+  "Main": {
+    "MainDescriptionSpeichrBox": "SpeicherBox.ch ist ein sicherer und klar strukturierter Arbeitsraum, in dem Sie sich auf das konzentrieren können, worauf es ankommt. Bei uns steht die Sicherheit Ihrer Daten an erster Stelle. Das ist Schweizer Qualität!",
+    "Product": "PRODUKTE",
+    "Description": {
+      "text1": "Wir bieten Ihnen Cloudspeicher für Ihre individuelle Nutzung. Einfach, sicher & kostengünstig. Bei uns steht die Sicherheit Ihrer Daten an erster Stelle. ",
+      "text2": "Ist Ihnen Sicherheit und Schweizer Qualität wichtig? Dann sind Sie bei uns genau richtig. SpeicherBox.ch bietet Ihnen eine kostengünstige Datensynchronisation und Datenspeicherung mit unserem Rechenzentrum in der Schweiz, verbunden mit der Serviceleistung eines persönlichen Ticket- und Telefonsupports.",
+      "text3": "Schützen Sie mit unserer Hilfe Ihre Dateien von Ihrem Computer bis zum Empfänger und behalten Sie die volle Kontrolle über Ihre Dateien. Mit Ende-zu-Ende-Verschlüsselung verlässt nichts Ihre Geräte unverschlüsselt. Nur Sie haben den Code, um den Inhalt Ihrer Dateien zu entschlüsseln. Wählen Sie die für Sie passende Lösung aus. Für eine individuelle Beratung kontaktieren Sie uns, wir sind gerne für Sie da. ",
+      "text4": "SpeicherBox.ch garantiert Ihnen 100 % Privatsphäre durch End-zu-Endverschlüsselung und externe Datensicherung ausschliesslich in der Schweiz!"
+    },
+    "Product_items": {
+      "Item1": {
+        "Name": "SPEICHERBOX FÜR PRIVATANWENDER",
+        "Description": "Mit SpeicherBox.ch hat das Suchen nach Unterlagen und Dokumenten ein Ende. Sie können auf Ihre Dateien von jedem beliebigen Smartphone, Tablet oder Computer aus zugreifen. Sicher & kostengünstig. ",
+        "price": "Ab CHF 59.- pro Jahr",
+        "button": "KAUFEN",
+        "info": "Weitere Informationen"
+      },
+      "Item2": {
+        "Name": "SPEICHERBOX FÜR FAMILIEN (MULTIUSER)",
+        "Description": "SpeicherBox bietet Ihnen die optimale Lösung für verschlüsselte Datensynchronisation und Online-Zusammenarbeit für Ihre Familienmitglieder. Sie können auf Ihre Dateien von jedem beliebigen Smartphone, Tablet oder Computer aus zugreifen. ",
+        "price": "Ab CHF 5.50 pro Benutzer und Monat (Mindestbestellung: 3 Benutzer) Verlangen Sie per E-Mail oder Telefon den Familien-Rabattcode!",
+        "button": "KAUFEN",
+        "info": "Weitere Informationen"
+      },
+      "Item3": {
+        "Name": "SPEICHERBOX FÜR IHREN VEREIN/VERBAND (MULTIUSER)",
+        "Description": "Sichern und verwalten Sie Ihre Vereins-/Verbandsdaten an nur einem Ort. So sind die Daten immer aktuell. Sie haben jederzeit von überall her Zugriff und können Ihren Mitgliedern individuelle Berechtigungen einräumen. Sicher & kostengünstig. ",
+        "price": "Ab CHF 5.50 pro Benutzer und Monat (Mindestbestellung: 3 Benutzer) Verlangen Sie per E-Mail oder Telefon den NPO-Rabattcode!",
+        "button": "KAUFEN",
+        "info": "Weitere Informationen"
+      },
+      "Item4": {
+        "Name": "SPEICHERBOX FÜR IHR UNTERNEHEMEN (MULTIUSER)",
+        "Description": "Bewahren Sie alle vertraulichen Firmendaten an einem sicheren Ort auf. Weitere Vorteile: Sie haben jederzeit Zugriff und können Berechtigungen individuell an Mitarbeiter, Teams, Projektleiter, usw. erteilen. Ein sinnvoller, virtueller Arbeitsraum: gut geschützt und praxiserprobt. Ideal für KMU, Institutionen und Organisationen. Sicher & kostengünstig.",
+        "price": "Ab CHF 11.- pro Benutzer pro Monat",
+        "button": "KAUFEN",
+        "info": "Weitere Informationen"
+      },
+      "Item5": {
+        "Name": "SPEICHERBOX RESELLER",
+        "Description": "Mit SpeicherBox.ch bieten Sie Ihren Kunden einen echten Mehrwert. Werden Sie Reseller und verkaufen Sie Ihren Kunden die echt schweizerische verschlüsselte Datensynchronisation und Datensicherung von SpeicherBox.ch. Bei unserem Reseller Programm erhalten Sie eine eigene, speziell auf Ihr Unternehmen angepasste SpeicherBox von uns zur Verfügung gestellt. Sie erstellen und verwalten die Kunden selbstständig und rechnen diese direkt ab.",
+        "price": "Für eine individuelle Beratung kontaktieren Sie uns!",
+        "info": "Weitere Informationen"
+      }
+    },
+    "Product_Overview": {
+      "name": "Produktübersicht",
+      "description": "Verschaffen Sie sich den Überblick und entscheiden sich für eine unserer Rundum-Sorglos-Pakete. Sie können sich immer darauf verlassen: 100 % Privatsphäre durch End-zu-Endverschlüsselung und externe Datensicherung ausschliesslich in der Schweiz! "
+    }
+  },
+  "Price": {
+    "name": "Preisübersicht",
+    "description": {
+      "text1": "Bei uns steht die Sicherheit Ihrer Daten an erster Stelle. Wir bieten Ihnen Cloudspeicher für Ihre individuelle Nutzung. Einfach, sicher & kostengünstig.",
+      "text2": "Sicherheit und Schweizer Qualität bedeutet selbstverständlich, dass auch Ihre Daten in einem Rechenzentrum in der Schweiz gespeichert werden. So dürfen Sie sicher sein, dass nur höchste Sicherheitsstandards gelten.",
+      "text3": "Wählen Sie die für Sie passende Lösung aus. Für eine individuelle Beratung kontaktieren Sie uns, wir sind gerne für Sie da."
+    },
+    "cards": {
+      "card1": {
+        "name": "Privatanwender",
+        "price": "ab CHF 59",
+        "text1": "pro Jahr",
+        "text2": "Wichtige Unterlagen",
+        "text3": "sicher speichern",
+        "button": "KAUFEN"
+      },
+      "card2": {
+        "name": "Familie",
+        "price": "ab CHF 5.50",
+        "text1": "pro Benutzer",
+        "text2": "Dokumente & Fotos",
+        "text3": "sicher speichern & teilen",
+        "button": "KAUFEN"
+      },
+      "card3": {
+        "name": "Verein / Verband",
+        "price": "ab CHF 5.50",
+        "text1": "pro Benutzer",
+        "text2": "Daten sicher teilen",
+        "text3": "& synchronisieren",
+        "button": "KAUFEN"
+      },
+      "card4": {
+        "name": "Unternehmen",
+        "price": "ab CHF 11",
+        "text1": "pro Benutzer",
+        "text2": "Vertrauliche Firmendaten",
+        "text3": "sicher aufbewahren",
+        "button": "KAUFEN"
+      }
+    }
+  },
+  "Home_cards": {
+    "tittle": "SPEICHERBOX HOME KAUFEN",
+    "cards_list": {
+      "card1": {
+        "name": "Test",
+        "price": "Kostenlos",
+        "size": "30 Tage kostenlos testen",
+        "button": "KAUFEN"
+      },
+      "card2": {
+        "name": "Mini",
+        "price": "CHF 59.00 pro Jahr",
+        "size": "100GB Speicherplatz",
+        "button": "KAUFEN"
+      },
+      "card3": {
+        "name": "Standart",
+        "price": "CHF 129.00 pro Jahr",
+        "size": "500GB Speicherplatz",
+        "button": "KAUFEN"
+      },
+      "card4": {
+        "name": "Premium",
+        "price": "CHF 250.00 pro Jahr",
+        "size": "1TB Speicherplatz",
+        "button": "KAUFEN"
+      }
+    }
+  },
+  "MultiUser_cards": {
+    "tittle": "SPEICHERBOX MULTIUSER BESTELLEN",
+    "cards_list": {
+      "card1": {
+        "name": "Multiuser",
+        "type": "Test",
+        "price": "Kostenlos",
+        "period": "für 30 Tage testen",
+        "size": "500GB Speicherplatz",
+        "user": "5 Benutzer",
+        "button": "KAUFEN"
+      },
+      "card2": {
+        "name": "Multiuser",
+        "type": "Standart",
+        "price": "CHF 11.-",
+        "period": "pro Benutzer/Monat",
+        "size": "500GB Speicherplatz",
+        "user": "pro Benutzer",
+        "button": "KAUFEN"
+      },
+      "card3": {
+        "name": "Multiuser",
+        "type": "Premium",
+        "price": "CHF 14.-",
+        "period": "pro Benutzer/Monat",
+        "size": "1TB Speicherplatz",
+        "user": "pro Benutzer",
+        "button": "KAUFEN"
+      },
+      "card4": {
+        "name": "Familien",
+        "type": " Verein / NPO",
+        "price": "auf Anfrage",
+        "period": "für Non-Profit Organisationen",
+        "size": "500GB Speicherplatz",
+        "user": "pro Benutzer",
+        "button": "KAUFEN"
+      }
+    }
+  },
+  "About_us": {
+    "name": "SPEICHERBOX.CH: DER SICHERE CLOUD-SPEICHER AUS DER SCHWEIZ",
+    "text1": "Wir konnten nicht länger ruhigen Gewissens akzeptieren, dass unsere Daten noch länger bei ausländischen, anonymen Onlinespeicherdiensten gespeichert sind. Auf der Suche nach einer vertrauenswürdigen Alternative wurde uns schnell bewusst, dass es das so auf dem Markt noch gar nicht gibt, und so riefen wir unser eigenes Projekt ins Leben: SpeicherBox.ch",
+    "text2": "Gerne teilen wir unser Rundum- Sorglos- Paket für die externe Datenspeicherung mit Ihnen. Wir sind nicht nur ein Unternehmen mit Sitz im schweizerischen Zofingen; unsere ganzen Geschäftsprozesse werden in der Schweiz abgebildet, so befindet sich selbstverständlich auch das Rechenzentrum in der Schweiz. Sie dürfen sicher sein, dass nur höchste Sicherheitsstandards gelten.",
+    "text3": "Datensicherheit aus der Schweiz, für die Schweiz und alle, die Schweizer Qualität zu schätzen wissen.",
+    "text4": "Bei SpeicherBox.ch stehen die Vertrauenswürdigkeit, Verfügbarkeit und Datensicherheit Ihrer Daten an oberster Stelle.",
+    "text5": "SpeicherBox.ch garantiert Ihnen 100 % Privatsphäre durch End-zu-Endverschlüsselung und externe Datensicherung ausschliesslich in der Schweiz!"
+  },
+  "Security": {
+    "name": "END-ZU-END VERSCHLÜSSELUNG MIT AES256 – DER EINZIG SICHERE WEG FÜR IHRE DATEN",
+    "text1": "Entgegen dem heutigen Trend im Onlinespeichermarkt stehen alle unsere Server in Schweizer Hochsicherheitsrechenzentren. Das heisst für Sie, dass Ihre Daten niemals in ausländischen Rechenzentren gespeichert werden und somit immer dem Schweizer Datenschutz und Gerichtsstand unterstellt sind.",
+    "text2": "Gerne teilen wir unser Rundum- Sorglos- Paket für die externe Datenspeicherung mit Ihnen. Wir sind nicht nur ein Unternehmen mit Sitz im schweizerischen Zofingen; unsere ganzen Geschäftsprozesse werden in der Schweiz abgebildet, so befindet sich selbstverständlich auch das Rechenzentrum in der Schweiz. Sie dürfen sicher sein, dass nur höchste Sicherheitsstandards gelten.",
+    "text3": "Die Verschlüsselung sowie die Entschlüsselung finden auf dem Client statt. Somit kann keine unberechtigte Person auf Ihre gespeicherten Daten zugreifen.",
+    "text4": "Wir setzen auf die AES256 Verschlüsselung. Was ist das?, AES ist der Verschlüsselungsstandard, und 256 bedeutet, dass die Schlüssellänge 256 Bit beträgt. Sie können sich das so vorstellen: mit der Schlüssellänge von 256 Bit übersteigt die Anzahl der möglichen Kombinationen von Schlüsseln die Anzahl der Sterne im Universum (es gibt geschätzt etwa eine Quadrillion, also 10²⁴, Sterne). Das bedeutet, dass eine Milliarde Computer mehrere Milliarden Jahre benötigen würden um diesen Code zu knacken.",
+    "text5": "Die Datencenter verfügen über 24/7 Security vor Ort und sind durch Biometrie gesichert.",
+    "text6": "Wir nutzen keine OpenSource Technologien. So ist unsere selbstentwickelte Software zu 100% unser Eigentum und wird ausschliesslich durch SpeicherBox.ch verwendet und weiterentwickelt."
+  },
+  "Data_protection": {
+    "name": "DATENSCHUTZ",
+    "text1": "Schweizer Behörden, Gerichte, Gemeinden. Ämter, etc. sind an das Schweizer Datenschutzgesetz (Bundesgesetz über den Datenschutz (DSG) vom 19. Juni 1992; https://www.admin.ch/opc/de/classifed-compilation/19920153/index.html) gebunden, genau so wie auch Schweizer Unternehmen. Zusätzlich sind bei Schweizer Behörden noch kantonale Datenschutzgesetze und Vorschriften und das strafrechtliche Amtsgeheimnis zu beachten. Damit ist gemeint, dass sämtliche Organisationen besonders vorsichtig mit ihren Daten umgehen müssen.",
+    "text2": "Eine Firma, Verband oder Verein, auch eine Schule besitzt zahlreiche Personendaten wie z.B. Adressen, Geburtsdatum, Telefonnummern, Fotografien von Kunden, Mitarbeitern oder Mitgliedern. Der Schweizer Datenschutz schreibt klar vor, wie mit diesen Daten umgegangen werden darf und muss. Die Organisation, der die Daten anvertraut worden sind, trägt die Verantwortung für den datenschutzkonformen Umgang.",
+    "text3": "So muss sichergestellt werden, dass der Online Speicher- bzw. der Cloud Service- Anbieter als Dritter die Datensicherheit im Sinne von Art. 7 DSG und Art. 8ff. bzw. 20ff VDSG gewährleistet. Das heisst, die Personendaten müssen durch angemessene technische und organisatorische Massnahmen gegen unbefugtes Bearbeiten geschützt werden. Es muss für Vertraulichkeit, Verfügbarkeit und Integrität der Daten gesorgt sein."
+  },
+  "Footer": {
+    "text_info": "Speicherbox.ch ist ein virtueller Arbeitsraum zum Speichern, Bearbeiten und Teilen von vertraulichen Dokumenten. Sicher wie ein Schweizer Banktresor, denn Ihre Daten bleiben in der Schweiz.",
+    "links_name": "Links",
+    "links_list": {
+      "link1": "Datenzugriff",
+      "link2": "Admin Konsole",
+      "link3": "Kundencenter",
+      "link4": "Allgemeine Geschäftsbedingungen"
+    },
+    "contacts": "Kontakt"
+  },
+  "Home_details": {
+    "tittle": "SpeicherBox Home",
+    "text1": "Mit SpeicherBox.ch hat das Suchen nach Unterlagen und Dokumenten ein Ende. Sie können auf Ihre Dateien von jedem beliebigen Smartphone, Tablet oder Computer aus zugreifen. Rund um die Uhr griffbereit zum Bearbeiten, Zeigen und Teilen.",
+    "text2": "Mit SpeicherBox.ch hat das Suchen nach Unterlagen und Dokumenten ein Ende. Sie können auf Ihre Dateien von jedem beliebigen Smartphone, Tablet oder Computer aus zugreifen. Rund um die Uhr griffbereit zum Bearbeiten, Zeigen und Teilen.",
+    "text3": "Speichern Sie Ihre privaten Dokumente auf Speicherbox.ch sicher ab. Fotos, Steuerunterlagen, Versicherungspolicen, Ausweise, Kochrezepte, Dokumente jeglicher Art, - alles was Ihnen wichtig ist. Rund um die Uhr griffbereit zum Bearbeiten, Zeigen und Teilen.",
+    "price": "Ab CHF 59.- pro Jahr!",
+    "button": "KAUFEN"
+  },
+  "Business_details": {
+    "tittle": "SPEICHERBOX FÜR IHR UNTERNEHMEN",
+    "text": "Verschlüsselte Datensynchronisation und Online-Zusammenarbeit fürKlein- und Mittelbetriebe. Sie erhalten von uns einen eigenständigen virtuellen Server mit eigenen verschlüsselten Festplatten und eigener Datenbank. Synchronisieren Sie alle Ihre Daten von einem oder mehreren Computern oder Servern. Teilen Sie Dokumente sicher mit Ihren Mitarbeitern über private Freigaben. Für externen Partner können Sie Dokumente über öffentliche Links mit optionalem Passwortschutz und Ablaufdatum zur Verfügung stellen. Zusätzlich haben alle ihre Nutzer die Möglichkeit, Ihre Kontakte und Termine zu synchronisieren. So haben Sie immer Zugriff auf die neusten Dokumente, Kontakte und Termine. Sie haben als Administrator die Möglichkeit, Ihre Benutzer zu verwalten, Gruppen zu erstellen und Berechtigungen anzupassen.",
+    "price": "Ab CHF 11.- pro Benutzer pro Monat",
+    "button": "KAUFEN"
+  },
+  "Family_details": {
+    "tittle": "SpeicherBox für Familien",
+    "text": "Verschlüsselte Datensynchronisation und Online-Zusammenarbeit für die Familienmitglieder. Sie erhalten von uns einen eigenständigen virtuellen Server mit eigenen verschlüsselten Festplatten und eigener Datenbank. Synchronisieren Sie alle Ihre Daten von einem oder mehreren Computern, Tablets, Telefonen oder Servern. Teilen Sie Dokumente sicher mit ihren Familienmitgliedern über private Freigaben. So haben Sie immer Zugriff auf die neusten Dokumente, Fotos, abgelegte Verträge usw. Sie haben die Möglichkeit Ihre Benutzer zu verwalten, Gruppen zu erstellen und Berechtigungen anzupassen.",
+    "price": "Ab CHF 5.50 pro Benutzer und Monat (Mindestbestellung: 3 Benutzer)",
+    "button": "KAUFEN"
+  },
+  "Verein_details": {
+    "tittle": "SpeicherBox für Ihren Verein/Verband",
+    "text": "Verschlüsselte Datensynchronisation und Online-Zusammenarbeit für Ihre Vereins- oder Verbandstätigkeit. Sie erhalten von uns einen eigenständigen virtuellen Server mit eigenen verschlüsselten Festplatten und eigener Datenbank. Synchronisieren Sie alle Ihre Daten von einem oder mehreren Computern oder Servern. Teilen Sie Dokumente sicher mit Vereins- & Verbandskollegen über private Freigaben. Für externen Partner können Sie Dokumente über öffentliche Links mit optionalem Passwortschutz und Ablaufdatum zur Verfügung stellen. Zusätzlich haben alle ihre Nutzer die Möglichkeit, Ihre Kontakte und Termine zu synchronisieren. So haben Sie immer Zugriff auf die neusten Dokumente, Kontakte und Termine. Sie haben als Administrator die Möglichkeit, Ihre Benutzer zu verwalten, Gruppen zu erstellen und Berechtigungen anzupassen.",
+    "price1": "Ab CHF 5.50 pro Benutzer und Monat (Mindestbestellung: 3 Benutzer)",
+    "price2": "Verlangen Sie per E-Mail oder Telefon den NPO-Rabattcode!",
+    "button": "KAUFEN"
+  },
+  "Reseller_details": {
+    "tittle": "SPEICHERBOX RESELLER",
+    "text1": "SpeicherBox bietet Ihnen als Reseller die Servermiete inklusive Software als vermarktbares Produkt.",
+    "text2": "Die Software kann modular erweitert werden. Dies bietet Ihnen die Möglichkeit, bei Bedarf und in Abstimmung mit uns, weitere Wünsche Ihrer Kunden zu realisieren. Wir unterstützen Sie gerne dabei.",
+    "text3": "Für Kundeneinrichtung und Kundenpflege zeichnen Sie als Reseller sich verantwortlich. Als Administrator sind Sie damit auch der direkte Ansprechpartner für Ihre Kunden.",
+    "text4": "Für die Hard-, Software und Datensicherheit sind wir, die SpeicherBox.ch GmbH verantwortlich. Wir garantieren Ihnen Datensicherheit aus der Schweiz, für die Schweiz und allen, die Schweizer Qualität zu schätzen wissen. Sicher & kostengünstig.",
+    "price": "Für eine individuelle Beratung kontaktieren Sie uns!"
+  }
+}

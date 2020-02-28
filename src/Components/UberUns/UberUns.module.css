@@ -1,0 +1,93 @@
+.Wrapper {
+  padding: 150px 0 100px 0;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.Tittle {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0 auto;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+/* .Tittle:after {
+  display: block;
+  z-index: 2;
+  content: '';
+  height: 2px;
+  background-color: #fdb822;
+  width: 10%;
+  margin-top: 46px;
+}
+
+.Tittle:before {
+  z-index: 1;
+  display: block;
+  content: '';
+  height: 2px;
+  background-color: #dddddd;
+  width: 100%;
+  margin-bottom: -80px;
+} */
+.Tittle:after {
+  display: block;
+  position: absolute;
+  top: 78px;
+  z-index: 2;
+  content: '';
+  height: 2px;
+  background-color: #fdb822;
+  width: 10%;
+}
+
+.Tittle:before {
+  z-index: 1;
+  display: block;
+  position: absolute;
+  top: 78px;
+  content: '';
+  height: 2px;
+  background-color: #dddddd;
+  width: 100%;
+}
+.ProductText {
+  padding-top: 50px;
+  margin-bottom: 100px;
+}
+.ProductText p {
+  margin: 0 0 20px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #696969;
+}
+.ImgBox {
+  display: block;
+  width: 500px;
+  margin: auto;
+}
+
+@media screen and (max-width: 1023px) {
+  .Wrapper {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .Tittle {
+    font-size: 18px;
+  }
+  .ImgBox {
+    width: 100%;
+  }
+  .ImgBox img {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+  }
+  .ProductText p {
+    padding: 0px 10px 0px 10px;
+  }
+}
